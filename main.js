@@ -676,7 +676,7 @@ document.getElementById('cor32').addEventListener('click', function (e) {
 $(document).ready(function(){
   $("#download").click(function(){
     domtoimage.toBlob(document.getElementById('social_masculino')).then(function(blob){
-      window.saveAs(blob, "Polo.png");
+      window.saveAs(blob, "jaqueta.png");
       
     })
   })
