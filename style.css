@@ -494,7 +494,7 @@ border-bottom:1px solid #919191;
         padding-left:10px;
         padding-right: 30px;
         padding-bottom: 30px;
-        padding-top: 60px;
+        padding-top: 90px;
         width: 380px;        
         height: 510px;
     }
@@ -518,13 +518,13 @@ border-bottom:1px solid #919191;
     }
     .frente1,.frente2,.frente3,.frente4,.costas1,.costas2,.costas3,svg,.imgbolso, .imgfrente, .bolso{
         position: absolute;
-        width: 400px;
-        height: 390px;
+     width: 300px;
+    height: 289px;
     }
     .imgcostas{
         position: absolute;
-        width:398px;
-        height: 390px;
+    width: 300px;
+    height: 289px;
     }
 
    
@@ -532,14 +532,14 @@ border-bottom:1px solid #919191;
         display: flex;
         position: absolute;
         left:145px;
-        margin-top:550px;
+        margin-top:450px;
         vertical-align: baseline;
         z-index: 13;
     }
     .drag{
         position: absolute;
         width: 400px !important;
-        height: 430px !important;
+        height: 350px !important;
         
     }
     .canvas-container,canvas, #list{
@@ -548,7 +548,7 @@ border-bottom:1px solid #919191;
         height: 430px !important;
     }
     .download{
-        margin-top:570px;
+        margin-top:490px;
         width: 120px;
         height: 35px;
         font-size: 15px;
@@ -556,7 +556,7 @@ border-bottom:1px solid #919191;
         left:-10px
     }
     .uploader{
-        margin-top: 570px;
+        margin-top: 490px;
         width: 116px;
         height: 24px;
         font-size: 16px;
