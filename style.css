@@ -531,7 +531,7 @@ border-bottom:1px solid #919191;
     .switch__container2{
         display: flex;
         position: absolute;
-        left:145px;
+        left:90px;
         margin-top:450px;
         vertical-align: baseline;
         z-index: 13;
@@ -565,16 +565,16 @@ border-bottom:1px solid #919191;
     }
     .cores,.coresb,.coresGE, .coresGI,.coresP, .coresVE, .coresVD,.coresBF,.coresBB{
             visibility: hidden;
-            width: 300px;
-            height: 500px;
-            left:115px;
+               width: 245px;
+    height: 420px;
+    left: 65px;
             z-index: 22;
     }
 
     .optcolors{
         margin-top: 14%;
         width: 100%;
-        margin-left: 20px; 
+        margin-left: 7px; 
       }
     .optcolors form{
         display: grid;
@@ -609,8 +609,8 @@ border-bottom:1px solid #919191;
     }
 
     .acabamentos{
-    width: 300px;
-    height: 500px;
+        width: 200px;
+    height: 345px;
     z-index: 23;
     left: -10px;
     }
